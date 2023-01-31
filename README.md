@@ -126,10 +126,9 @@ urlpatterns = [
 
 ```
 ## OUTPUT:
-![OUTPUT](./out.png)
+![OUTPUT](./out11.png)
 
-### Home Page:
-![Home Page](./home.png)
+
 
 ## Result:
 The program is executed successfully.
